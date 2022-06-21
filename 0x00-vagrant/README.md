@@ -1,1 +1,1 @@
-Prints ssh linux man page
+Linux
