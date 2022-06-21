@@ -1,1 +1,1 @@
-Prints working Operating Sysytem.
+Prints ssh linux man page
